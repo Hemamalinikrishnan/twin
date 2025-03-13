@@ -1,0 +1,2 @@
+New-Item -ItemType File ai_model.py
+notepad ai_model.py   # Opens the file in Notepad for editing
